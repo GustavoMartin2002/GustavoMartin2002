@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Lima Martin</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🏢 I am currently working at **Ford Motor Company**
+- 🏢 I am currently available for **new proposals**.
 
 - 👨‍💻 Web/Mobile/Systems **development**
 
