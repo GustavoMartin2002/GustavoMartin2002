@@ -20,18 +20,17 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   <br>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" alt="mysql" width="40" height="40"/></a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" alt="firebase" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
   <br>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" alt="react" width="40" height="40"/></a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=gwR0hbBi5JeZ&format=png&color=FFFFFF" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" alt="reactnative" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000" alt="reactnative" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="reactnative" width="40" height="40"/></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="node.js" width="40" height="40"/></a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" alt="nestjs" width="40" height="40"/></a> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=gwR0hbBi5JeZ&format=png&color=FFFFFF" alt="next.js" width="40" height="40"/></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" alt="react" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000" alt="tailwindCSS" width="40" height="40"/></a>
 </p>
 
 <br>
